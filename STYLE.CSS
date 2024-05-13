@@ -2,5 +2,5 @@ h2{
     color:white;
 }
 body{
-    background: linear-gradient (pink 55%,black);
+    background-image: linear-gradient (pink,black);
 }
